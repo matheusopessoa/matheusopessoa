@@ -10,44 +10,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusopessoa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&border_radius=10" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left">Studies</h2>
-<p align="left">Currently I study information systems at CIn - UFPE,</p>
-<p align="left">one of the best tech universities in South America</p>
+<h2 align="left">Studies📕</h2>
+<p align="left">Currently I study Information Systems at CIn - UFPE,</p>
+<p align="left">🔥one of the best tech universities in South America🔥</p>
 
 ###
 
-<div align="left">
+<div align="center">
 
- <h2 align="left">Currently, I am proficient in:</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-<img width="12" />
+  <h2 align="center">💻 Currently, I am proficient in: 💻</h2>
+<img src="https://skillicons.dev/icons?i=javascript,python,css,html,vscode,github,git" />
 </div>
 
 ###
 
 
-<div align="left">
+<div align="center">
 
- <h2 align="left">My next steps:</h2>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-<img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-<img width="12" />
-<br clear="both">
+ <h2 align="center">📌 My next steps 📌</h2>
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,firebase,nodejs" />
  <h2 align="left">... and without a doubt that soon, I will be a pro in all of them and much more!</h2>
 
 </div>
 
 ###
-<br clear="both">
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!+:)">
+</h3>
 
 
