@@ -40,8 +40,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/git/git-original.svg" height="30" alt="git logo"  />
-<img width="12" />
 <br clear="both">
  <h2 align="left">... and without a doubt that soon, I will be a pro in all of them and much more!</h2>
 
