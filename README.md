@@ -34,7 +34,7 @@
 <div align="center">
  <h2 align="center" style="color: #e48aa3">📌 My next steps 📌</h2>
 <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,firebase,nodejs" />
- <h2 align="center" style="color: #e48aa3">... and without a doubt that soon, I will be a pro in all of them and much more!</h2>
+ <p align="center" style="color: #e48aa3">... and without a doubt that soon, I will be a pro in all of them and much more!</p>
 
 </div>
 
