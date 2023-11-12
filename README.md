@@ -9,14 +9,14 @@
 </div>
 
 <h2 align="left">Studies</h2>
-<p align="left">Actually, i study Information Systems, at CIn - UFPE</p>
-<p align="left">(one of the bests tech universities of South America)</p>
+<p align="left">Currently I study information systems at CIn - UFPE,</p>
+<p align="left">one of the best tech universities in South America</p>
 
 ###
 
 <div align="left">
 
- <h2 align="left">Actually, im proficient:</h2>
+ <h2 align="left">Currently, I am proficient in:</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 <img width="12" />
@@ -38,8 +38,14 @@
 <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/git/git-original.svg" height="30" alt="git logo"  />
+<img width="12" />
+<br clear="both">
+ <h2 align="left">... and without a doubt that soon, I will be a pro in all of them and much more!</h2>
+
 </div>
 
 ###
 <br clear="both">
-###
