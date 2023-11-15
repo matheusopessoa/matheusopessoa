@@ -4,9 +4,9 @@
 
 ###
 
-/*<div align="center">
+<div align="center">
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=matheusopessoa&count_private=false&theme=dracula&border_radius=10" height="150" alt="streak stats"/>
-</div>*/
+</div>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusopessoa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&border_radius=10" height="150"  alt="stats graph"  />
