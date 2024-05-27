@@ -17,7 +17,7 @@
 </div>
 
 <h2 align="center" style="color: #e48aa3;">Studies📕</h2>
-<p align="center" style="color: #e48aa3;">Currently I study Information Systems at CIn - UFPE,</p>
+<p align="center" style="color: #e48aa3;">Currently I study Computer Science at CIn</p>
 <p align="center" style="color: #e48aa3;">🔥one of the best tech universities in South America🔥</p>
 
 <br>
