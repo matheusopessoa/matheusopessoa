@@ -20,26 +20,6 @@
 <p align="center" style="color: #e48aa3;">Currently I study Computer Science at CIn</p>
 <p align="center" style="color: #e48aa3;">🔥one of the best tech universities in South America🔥</p>
 
-<br>
-
-<div align="center">
-
-
-  <h2 align="center" style="color: #e48aa3">💻 Currently, I am proficient in: 💻</h2>
-<img src="https://skillicons.dev/icons?i=javascript,python,css,html,vscode,github,git" />
-</div>
-
-<br>
-
-<div align="center">
- <h2 align="center" style="color: #e48aa3">📌 My next steps 📌</h2>
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,firebase,nodejs" />
- <p align="center" style="color: #e48aa3">... and without a doubt that soon, I will be a pro in all of them and much more!</p>
-
-</div>
-
-<br>
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Amatic+SC&size=33&duration=1500&pause=1000&color=E48AA3&background=74CCEA00&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!...+%F0%9F%91%8B;Shoot+me+a+message+on+Linkedin!+👉...;...matheuspessoadev">
 </h3>
