@@ -13,14 +13,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/gjNpk1xzoKMAAAAC/koji-yakusho-perfect-days.gif"  />
 </div>
