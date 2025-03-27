@@ -9,9 +9,23 @@
 
 - 📫 How to reach me **matheuspessoa.tech@gmail.com**
 
+<img src="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=matheusopessoa&count_private=false&theme=dracula&border_radius=10" height="150" alt="streak stats"/>
+  <img height="200" src="https://media1.tenor.com/m/gjNpk1xzoKMAAAAC/koji-yakusho-perfect-days.gif"  />
 </div>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
