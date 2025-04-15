@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [cheersfy](cheersfy.com)
 
-- 🌱 I’m currently learning **back: fastify front: vue / nuxt**
-
 - 📝 I regularly write articles on [https://medium.com/@matheuspessoa.tech](https://medium.com/@matheuspessoa.tech)
 
 - 📫 How to reach me **matheuspessoa.tech@gmail.com**
