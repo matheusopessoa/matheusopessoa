@@ -5,7 +5,7 @@
 
 - 📝 I DEFINITELY DONT regularly write articles on [https://medium.com/@matheuspessoa.tech](https://medium.com/@matheuspessoa.tech)
 
-- 📫 How to reach me **matheuspessoa.tech@gmail.com** // Work with me [no openings at the moment]: **contato@clinicai.io**
+- 📫 How to reach me **matheuspessoa.tech@gmail.com**
 
 <img src="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/snake.svg" alt="Snake animation" />
 
