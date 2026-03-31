@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">a fullstack developer :)</h3>
-
 - 🔭 cto on sous clinic
 
 <img src="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/snake.svg" alt="Snake animation" />
