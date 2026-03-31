@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">a fullstack developer :)</h3>
 
-- 🔭 I’m currently working on ClinicAI
+- 🔭 cto on sous clinic
 
 - 📝 I DEFINITELY DONT regularly write articles on [https://medium.com/@matheuspessoa.tech](https://medium.com/@matheuspessoa.tech)
 
