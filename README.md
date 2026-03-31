@@ -1,5 +1,3 @@
-- 🔭 cto on sous clinic
-
 <img src="https://raw.githubusercontent.com/matheusopessoa/matheusopessoa/output/snake.svg" alt="Snake animation" />
 
 ###
